@@ -1,6 +1,6 @@
 # smart_home_demo
 
-A new Flutter project.
+simple single page smart home application demo
 
 ## Getting Started
 
